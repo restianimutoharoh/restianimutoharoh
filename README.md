@@ -17,7 +17,7 @@
 ## Training, Courses and Certification:
 #### 1. [MySkill](https://myskill.id/) | Data Analysis : Full Stack Intensive Bootcamp | `March 4 2024 - May 1 2024`
    - Basic Statistic, Data Formatting and Data Validation, SQL, Data Analysis with Python, Data Visualization. 
-#### 2. [Rakamin Academy](https://www.rakamin.com/) | Kimia Farma Big Data Analytics Project Based Internship Program | `June 3 2024 - July 1 2024`
+#### 2. [Rakamin Academy](https://www.rakamin.com/) | Kimia Farma Big Data Analytics Project Based Internship Program | `June 3- July 1 2024`
    - Data Analysis, Big Data, and Big Data Processing and Scheduling
 ---
 
