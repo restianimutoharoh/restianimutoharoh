@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently a job Seeker
 - 🌱 I’m currently learning SQL, Python & Data Visualization
-- 👯 I’m looking to collaborate as Entry-Level & Junior Data Analyst
+- 👯 I’m looking to collaborate as Junior Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: restianimutoharoh16@gmail.com
 
